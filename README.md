@@ -1,6 +1,6 @@
 Hi there 👋
-- 🔭 I’m currently studying in computer science, bachelor's degree.
-- 🌱 I’m currently learning about the tech world.
-- 🤔 I’m looking for help with learning about AI.
-- 💬 Ask me about anything!
-- 📫 How to reach me: ayoublamnaouar1@gmail.com
+- 🔭 Currently pursuing a bachelor's degree in Computer Science.
+- 🌱 Exploring the tech world with a focus on AI.
+- 🤔 Seeking guidance and collaboration in AI learning.
+- 💬 Open to discussions and questions!
+- 📫 Reach me at: ayoublamnaouar1@gmail.com
